@@ -17,7 +17,8 @@ This is multispam bot 🤞🤞
 
 [![telegram badge](https://img.shields.io/badge/RevilHunter-30302f?style=for-the-badge&logo=telegram)](https://t.me/TEAM_REVIL_X_DARK_EAGLES_OWNER)
 
-
+## ⚡𝓡𝓮𝓿𝓲𝓵 𝓗𝓾𝓷𝓽𝓮𝓻 𝔐𝔲𝔩𝔱𝔦 ẞø✞︎⚡
+## 𝓐 𝕾мοοτн 𝓐и∂ 𝕱αѕτєѕτ 𝔖𝔭𝔞𝔪 ϐοτ 𝕭αѕє∂ 𝕺и 𝕿𝖊ℓєτнοи 𝕷ιϐяαяγ.
 
 #ꜱᴘᴀᴍʙᴏᴛꜱ 🔥
 
