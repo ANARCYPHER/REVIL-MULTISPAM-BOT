@@ -19,7 +19,7 @@ This is multispam bot 🤞🤞 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Brutalmaster01/Revilhuntermultispambot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/REVILMULTISPAMBOT/REVIL-MULTISPAM-BOT)
 ------------------------------------------------
 
 ### 🖇️ String session ⚡
