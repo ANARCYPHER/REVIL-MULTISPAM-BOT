@@ -30,10 +30,10 @@ This is multispam bot 🤞🤞
 
 [![Run on Repl.it](https://repl.it/badge/github/REVILMULTISPAMBOT/REVILBOT)](https://replit.com/@REVILMULTISPAM/REVIL-MULTISPAM)
 
-                         - Click On Generate String
-                         - Then Click On Green Run Button.
-                         - Wait for a while then fill the details.
-                         - String will be saved in your Saved Message.
+  - Click On Generate String
+  - Then Click On Green Run Button.
+  - Wait for a while then fill the details.
+  - String will be saved in your Saved Message.
 
 # My Brother's  Cradit 💥
 
