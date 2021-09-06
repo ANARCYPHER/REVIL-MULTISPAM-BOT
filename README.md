@@ -10,7 +10,7 @@ This is multispam bot 🤞🤞
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
 <a href="https://t.me/REVIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/naughty_stud_ents"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/REVIL_BOT_OFFICIAL"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
 
 
 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
