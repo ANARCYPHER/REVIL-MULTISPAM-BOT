@@ -7,15 +7,15 @@
 
 This is multispam bot 🤞🤞 
 
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+                          
+<a href="https://t.me/REVIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/naughty_stud_ents"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
+
+
 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
 [![telegram badge](https://img.shields.io/badge/RevilHunter-30302f?style=for-the-badge&logo=telegram)](https://t.me/TEAM_REVIL_X_DARK_EAGLES_OWNER)
-
-
-### ⚡ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ⚡
-
-[![telegram badge](https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ-30302f?style=for-the-badge&logo=telegram)](https://t.me/REVIL_BOT_SUPPORT)
-
 
 
 
