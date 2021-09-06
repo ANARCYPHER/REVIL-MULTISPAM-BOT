@@ -39,5 +39,5 @@ This is multispam bot 🤞🤞
 # My Brother's  Cradit 💥
 
 
-[![telegram badge](https://img.shields.io/badge/ʙᴀᴅɴᴀᴍ-30302f?style=for-the-badge&logo=telegram)](https://t.me/You_izz_mine)
+[![telegram badge](https://img.shields.io/badge/AKKU-30302f?style=for-the-badge&logo=telegram)](https://t.me/You_izz_mine)
 
