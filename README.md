@@ -5,13 +5,17 @@
   <img src="https://telegra.ph/file/00bc1bdc3ea94c1b2adc0.jpg">
 </p>
 
-This is multispam bot 🤞🤞 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
+This is multispam bot 🤞🤞 
 
-[![telegram badge](https://img.shields.io/badge/Badnam-30302f?style=for-the-badge&logo=telegram)](https://t.me/Badnam_op)
+### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
-### 😋Jhonny bhaiya 🤭
+[![telegram badge](https://img.shields.io/badge/RevilHunter-30302f?style=for-the-badge&logo=telegram)](https://t.me/TEAM_REVIL_X_DARK_EAGLES_OWNER)
 
-[![telegram badge](https://img.shields.io/badge/Jhonnysince-30302f?style=for-the-badge&logo=telegram)](https://t.me/TEAM_REVIL_X_DARK_EAGLES_OWNER)
+
+### ⚡ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ⚡
+
+[![telegram badge](https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ-30302f?style=for-the-badge&logo=telegram)](https://t.me/REVIL_BOT_SUPPORT)
+
 
 
 
@@ -28,4 +32,8 @@ This is multispam bot 🤞🤞 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
 
 
-[![Creator](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/its_badnam)
+# My Brother's  Cradit 💥
+
+
+[![telegram badge](https://img.shields.io/badge/ʙᴀᴅɴᴀᴍ-30302f?style=for-the-badge&logo=telegram)](https://t.me/its_badnam)
+
